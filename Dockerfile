@@ -1,4 +1,4 @@
-FROM simplexsys/zulu-openjdk:latest
+FROM simplexsys/busybox-zulu-openjdk:latest
 MAINTAINER qsys <kurt.sys@gmail.com>
 
 ENV VERTX_VERSION 2.1.5
